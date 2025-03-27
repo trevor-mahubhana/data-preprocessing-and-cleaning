@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](image.png = 500x300)
 
 
 ### The dataset contains details which l had made on my own just to try to build my skills on data cleaning and preprocessing using pandas,a python library. I had created one file which is in  comma-seperated-values (csv) format and stored in raw data folder.
