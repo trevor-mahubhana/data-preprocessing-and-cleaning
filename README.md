@@ -1,6 +1,6 @@
 # 🧹 Data Cleaning & Preprocessing Toolkit
+![image](https://github.com/user-attachments/assets/0ed05f71-1d98-4e7d-90d3-23dc45dae9b0)
 
-![Data Cleaning Banner](https://via.placeholder.com/800x200?text=Data+Cleaning+%26+Preprocessing+Projects) <!-- Consider adding a relevant banner image -->
 
 ## 📌 Introduction
 Welcome to my **Data Cleaning & Preprocessing** repository! This collection demonstrates practical techniques to transform raw, messy data into analysis-ready datasets. Perfect for data scientists, analysts, and students looking for reusable workflows to handle common data quality challenges.
