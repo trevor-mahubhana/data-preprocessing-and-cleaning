@@ -1,5 +1,5 @@
 # 🧹 Data Cleaning & Preprocessing Toolkit
-![image](https://github.com/user-attachments/assets/0ed05f71-1d98-4e7d-90d3-23dc45dae9b0)
+![Data Cleaning Banner](https://github.com/user-attachments/assets/0ed05f71-1d98-4e7d-90d3-23dc45dae9b0){: width="800" height="400" }
 
 
 ## 📌 Introduction
@@ -25,50 +25,45 @@ This repository currently includes **1 project** (with more coming soon!) coveri
 - Dimensionality reduction (PCA)
 
 ## 🚀 Getting Started
-```bash
 git clone https://github.com/trevor-mahubhana/data-preprocessing-and-cleaning.git
 cd data-preprocessing-and-cleaning
-📂 Project Structure
-Copy
+
+## 📂 Project Structure
 data-preprocessing-and-cleaning/
-├── Project_1_name/  
-│   ├── raw_data/          # Original datasets
-│   ├── code/              # Jupyter notebooks/Python scripts
-│   └── README.md          # Project documentation
-├── Project_2_name/  
-│   └── ...  
-└── LICENSE
-Each project includes:
+   Project_1_name/  
+     raw_data/          # Original datasets
+     code/              # Jupyter notebooks/Python scripts
+     README.md          # Project documentation
+   Project_2_name/  
+     ...  
 
-📊 Dataset (with proper source attribution)
+## Each project includes:
+- 📊 Dataset (with proper source attribution)
+- 💻 Well-commented code for reproducibility
+- 📝 Key insights and before/after comparisons
 
-💻 Well-commented code for reproducibility
+## 🤝 Contributing
+   - Your contributions are welcome! Here's how you can help:
+   - 🐛 Report bugs or suggest improvements via Issues
 
-📝 Key insights and before/after comparisons
+   -💡 Submit new projects via Pull Requests (please ensure clear documentation)
 
-🤝 Contributing
-Your contributions are welcome! Here's how you can help:
+    -✨ Share your ideas for new data cleaning techniques
 
-🐛 Report bugs or suggest improvements via Issues
+## 📜 License
+-This repository is licensed under the MIT License - free for use, modification, and distribution with attribution.
 
-💡 Submit new projects via Pull Requests (please ensure clear documentation)
+## 🙏 Acknowledgments
+-Special thanks to:
 
-✨ Share your ideas for new data cleaning techniques
+  - Datasets sourced from Kaggle, UCI Machine Learning Repository, etc.
 
-📜 License
-This repository is licensed under the MIT License - free for use, modification, and distribution with attribution.
+  - Inspiration from data science educators:
 
-🙏 Acknowledgments
-Special thanks to:
+     - Keith Galli
 
-Datasets sourced from Kaggle, UCI Machine Learning Repository, etc.
+     - Corey Schafer
 
-Inspiration from data science educators:
+    - Rob Mulla
 
-Keith Galli
-
-Corey Schafer
-
-Rob Mulla
-
-Krish Naik
+    - Krish Naik
