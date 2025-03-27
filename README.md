@@ -1,5 +1,5 @@
 # 🧹 Data Cleaning & Preprocessing Toolkit
-![Data Cleaning Banner](https://github.com/user-attachments/assets/0ed05f71-1d98-4e7d-90d3-23dc45dae9b0){: width="800" height="400" }
+![Data Cleaning Banner](https://github.com/user-attachments/assets/0ed05f71-1d98-4e7d-90d3-23dc45dae9b0
 
 
 ## 📌 Introduction
