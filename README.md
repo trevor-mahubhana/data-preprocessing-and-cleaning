@@ -54,17 +54,17 @@ data-preprocessing-and-cleaning/
 ## 📜 License
 -This repository is licensed under the MIT License - free for use, modification, and distribution with attribution.
 
-🙏 Acknowledgments
-Special thanks to:
+## 🙏 Acknowledgments
+-Special thanks to:
 
-Datasets sourced from Kaggle, UCI Machine Learning Repository, etc.
+  - Datasets sourced from Kaggle, UCI Machine Learning Repository, etc.
 
-Inspiration from data science educators:
+  - Inspiration from data science educators:
 
-Keith Galli
+     - Keith Galli
 
-Corey Schafer
+     - Corey Schafer
 
-Rob Mulla
+    - Rob Mulla
 
-Krish Naik
+    - Krish Naik
