@@ -1,4 +1,4 @@
-
+![Lucky_customers](https://github.com/trevor-mahubhana/data-preprocessing-and-cleaning/blob/master/customer-on-promotion/image.p =500x300)
 
 
 ### The dataset contains details which l had made on my own just to try to build my skills on data cleaning and preprocessing using pandas,a python library. I had created one file which is in  comma-seperated-values (csv) format and stored in raw data folder.
