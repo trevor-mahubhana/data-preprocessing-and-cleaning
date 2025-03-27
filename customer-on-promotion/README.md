@@ -1,3 +1,6 @@
+![alt text](image.png)
+
+
 ### The dataset contains details which l had made on my own just to try to build my skills on data cleaning and preprocessing using pandas,a python library. I had created 2 separate files in different formats which are comma-seperated-values (csv) and excel-worksheet (xlsx),stored in raw data folder.
 
 #### Check out the details of the lucky customers who will be called by the Call Desk ,stored in solution folder.
